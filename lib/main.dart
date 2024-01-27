@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     var textButton =
         TextButton(onPressed: () {}, child: const Text('Forgot password?'));
     return MaterialApp(
-        // For more features we use Scaffold with body
+        // For more features we use Scaffold with body. . . 
         home: Scaffold(
             backgroundColor: Colors.blue[400],
             body: Column(children: [
